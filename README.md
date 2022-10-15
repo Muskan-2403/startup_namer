@@ -1,4 +1,4 @@
-# startup_namer
+# Startup_Namer
 
 This project is a starting point for a Flutter application.
 
