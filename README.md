@@ -6,11 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A simple app that generates an endless list of proposed names for a startup company. 
+End users can select and unselect names, saving the best ones. 
+Tapping the list icon in the upper right of the app bar navigates to a new page (called a route) 
+    that lists only the favorited names.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[//]: # (- [Lab: Write your first Flutter app]&#40;https://docs.flutter.dev/get-started/codelab&#41;)
+[//]: # (- [Cookbook: Useful Flutter samples]&#40;https://docs.flutter.dev/cookbook&#41;)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[//]: # (For help getting started with Flutter development, view the)
+[//]: # ([online documentation]&#40;https://docs.flutter.dev/&#41;, which offers tutorials,)
+[//]: # (samples, guidance on mobile development, and a full API reference.)
