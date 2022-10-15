@@ -1,9 +1,5 @@
 # startup_namer
 
-A new Flutter project.
-
-## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A simple app that generates an endless list of proposed names for a startup company. 
